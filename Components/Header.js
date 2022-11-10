@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import HeaderIcon from './HeaderIcon'
-import { HomeIcon,UserIcon,PhoneIcon,InformationCircleIcon } from '@heroicons/react/24/solid'
+import { HomeIcon, UserIcon, PhoneIcon, InformationCircleIcon } from "@heroicons/react/solid";
 
 
 export default function Navbar() {
